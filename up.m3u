@@ -28,7 +28,7 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs02.stream/playlist.m3u8
 #EXTINF:-1, LIVEWOW
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs01.stream/playlist.m3u8
-#EXTINF:-1,Nuart
+#EXTINF:-1,Nuarta
 http://78.111.176.132:8080
 #EXTINF:-1,Hustler TV
 http://78.111.176.132:8081
