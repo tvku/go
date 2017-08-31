@@ -1,0 +1,41 @@
+#EXTINF:0 type="stream" channelId="-1", Movie 3 Japon
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+#EXTINF:-1 JAPAN",Star Channel 13
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",Star Channel 12
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",Star Channel 10 
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",Star Channel 11
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",WOWOW Cinema 
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",????
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8 
+
+#EXTINF:-1 JAPAN",Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+
+#EXTINF:-1 JAPAN",WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u
+
+#EXTINF:-1 JAPAN",Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+
+#EXTINF:-1JAPAN",Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs02.stream/playlist.m3u8
+
+#EXTINF:-1JAPAN",WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs01.stream/playlist.m3u8
