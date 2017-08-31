@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1, Movie3_Japoon
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 #EXTINF:-1, Star_Channel13
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 #EXTINF:-1, Star_Channel12
